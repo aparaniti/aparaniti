@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aparaniti
-- 👀 I’m interested in front-end web development
+- 👀 Front-end web dev
 - 🌱 I’m currently learning Ruby because it's the best lang ever <3
 - 💞️ I’m looking to collaborate on an interesting project
 - 📫 Reach me @ aparaniti@gmail.com 
